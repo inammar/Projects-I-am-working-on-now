@@ -9,7 +9,7 @@ Practicing knowledge of Selenium with TestNG using clothing web shop. This is a 
 
 
 
-Code is shared in the repository below, 
+Code is shared in the repository below, in master branch:
 
 (https://github.com/inammar/Magento-shop-testing-)
 
