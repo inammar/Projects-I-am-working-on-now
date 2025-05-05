@@ -1,18 +1,13 @@
 ### Projects I am working on now
 
-Practicing knowledge of Selenium with TestNG using clothing web shop. This is a demo shop for testing automation scripts.
+Practicing knowledge of Postman with reqres API.
+
+![image](https://github.com/user-attachments/assets/bec06969-9448-4d5e-b3dc-06dfbde09cc1)
 
 
 
 
-   [![Watch the video](https://img.youtube.com/vi/1HJ_Dg9aY8U/hqdefault.jpg)](https://www.youtube.com/watch?v=1HJ_Dg9aY8U)
 
 
-
-Code is shared in the repository below, in master branch:
-
-![image](https://github.com/user-attachments/assets/848498b9-ae21-4926-b87c-dded614100a7)
-
-
-(https://github.com/inammar/Magento-shop-testing-)
+Version 1 of reqres API testing is shared in repository: 
 
