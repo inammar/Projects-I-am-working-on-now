@@ -9,5 +9,6 @@ Practicing knowledge of Postman with reqres API.
 
 
 
-Version 1 of reqres API testing is shared in repository: 
+Version 1 of reqres API testing is shared in repository: https://github.com/inammar/Reqres-API-Testing-with-Postman
+
 
