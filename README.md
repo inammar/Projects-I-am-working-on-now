@@ -1,6 +1,9 @@
 ### Projects I am working on now
 
-Practicing knowledge of Postman with reqres API.
+1. Learning "CS50's Introduction to Databases with SQL" - how to create, read, update, and delete data with relational databases. Course prepared by Harvard University.
+
+
+2. Practicing knowledge of Postman with reqres API.
 
 ![image](https://github.com/user-attachments/assets/bec06969-9448-4d5e-b3dc-06dfbde09cc1)
 
